@@ -1,1 +1,7 @@
-export { DropAndDrag, Preview } from './DropAndDrag';
+import {DropAndDrag, Preview} from './DropAndDrag';
+
+export {
+  DropAndDrag,
+  Preview
+}
+
